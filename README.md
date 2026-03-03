@@ -1,4 +1,4 @@
-# NOTICE
+# NOTICE - marged version
 
 This project is no longer actively maintained, it should still work for the foreseeable future
 
@@ -215,6 +215,12 @@ Feel free to contribute, and add your name to the credits, please use the develo
 | Gardockt      | [contributions](credits/gardockt.md)      |        |
 | qoheniac      | [contributions](credits/qoheniac.md)      |        |
 | mathisto      | [contributions](credits/mathisto.md)      |        |
+<<<<<<< HEAD
 Изменение в branch2 - 1
 Изменение в branch2 - 2
 Изменение в branch2 - 3
+=======
+Изменение в branch1 - 1
+Изменение в branch1 - 2
+Изменение в branch1 - 3
+>>>>>>> branch1
